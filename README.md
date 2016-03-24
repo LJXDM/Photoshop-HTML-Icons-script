@@ -2,7 +2,7 @@ A simple photoshop script to create square HTML meta data icons from source imag
 
 **Create_HTML_app_icons.jsx** - photoshop script file
 
-To install save this file to C:\Program Files\Adobe\Photoshop CC\Presets\Scripts (in Windows) or /Applications/Photoshop CC/Presets/Scripts (on a Mac). You must then restart Photoshop.
+To install save this file to _C:\Program Files\Adobe\Photoshop CC\Presets\Scripts_ (in Windows) or _/Applications/Photoshop CC/Presets/Scripts_ (on a Mac). You must then restart Photoshop.
 
 To run it, from with Photoshop, select File > Scripts > Create_HTML_app_icons
 
