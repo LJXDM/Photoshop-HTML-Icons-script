@@ -10,6 +10,7 @@ Mac: /Applications/Photoshop CC/Presets/Scripts
 .. and then restart Photoshop.
 
 To run it from with photoshop select File > Scripts > Create_HTML_app_icons
+
 - select a square PNG file, at least 1024x1024 pixels in size
 - select an output folder where the resized images will be saved
 
